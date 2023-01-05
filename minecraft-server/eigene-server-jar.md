@@ -1,12 +1,10 @@
 # Eigene Jar Datei verwenden
 
-Um deinen Minecraft Server mit einer eigenen JAR zu starten lade die JAR Datei per FTP auf deinen Server hoch. Dazu gehe im Webinterface auf "Dateien" und klicke anschließend auf "FTP Datei Zugriff".
+m deinen Minecraft Server mit einer eigenen JAR zu starten lade die JAR Datei per FTP auf deinen Server hoch. Dazu gehe im Webinterface auf "Dateien" und klicke anschließend auf "FTP Datei Zugriff".
 
 Melde dich dort mit deinem Host-Zentrum.de Passwort an.
 
 Klicke links auf "Upload".
-
-![Multicraft Datei Upload](../.gitbook/assets/multicraft-upload.png)
 
 Wähle die JAR File aus und warte bis diese vollständig hochgeladen ist.
 
@@ -48,15 +46,11 @@ Welche Java Version benötige ich?
 
 </details>
 
-![Multicraft Versions Auswahl](../.gitbook/assets/multicraft-versions-auswahl.png)
-
 Kopiere in dem unseren Fenster den JAR Namen und speichere die Auswahl.
 
 Gehe nun wieder unter "Dateien" auf "FTP Datei Zugriff".
 
 Dort angekommen wähle die JAR Datei aus und drücke auf "Umbenennen".
-
-![Multicraft JAR umbenennen](../.gitbook/assets/multicraft-jar-umbenennen.png)
 
 Füge den kopierten JAR Namen ein und speichere dies.
 
